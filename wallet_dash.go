@@ -1,4 +1,4 @@
-package hdwallet
+package wallet
 
 func init() {
 	coins[DASH] = newDASH

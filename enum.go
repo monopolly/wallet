@@ -1,4 +1,4 @@
-package hdwallet
+package wallet
 
 // mnemonic language
 const (
